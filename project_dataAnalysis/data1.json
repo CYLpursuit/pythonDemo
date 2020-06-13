@@ -1,0 +1,10 @@
+[
+  {"tester":1201137,"deviceInfo":"Huawei nova2s","netWork":"4G","trainTicket":4514,"fightTicket":2376,"busTicket":2208},
+  {"tester":1201137,"deviceInfo":"Mi 8","netWork":"4G","trainTicket":2500,"fightTicket":2359,"busTicket":1676},
+  {"tester":1201137,"deviceInfo":"iphone7","netWork":"4G","trainTicket":1462,"fightTicket":1755,"busTicket":1968},
+  {"tester":1201137,"deviceInfo":"iphone6","netWork":"4G","trainTicket":1035,"fightTicket":1227,"busTicket":2071},
+{"tester":1201137,"deviceInfo":"iphone8","netWork":"4G","trainTicket":1035,"fightTicket":1227,"busTicket":2071},
+  {"tester":1201137,"deviceInfo":"Mi 6","netWork":"4G","trainTicket":2245,"fightTicket":2359,"busTicket":1600},
+  {"tester":1201137,"deviceInfo":"OPPO A7x","netWork":"4G","trainTicket":1567,"fightTicket":1324,"busTicket":988},
+  {"tester":1201137,"deviceInfo":"vivo","netWork":"4G","trainTicket":1023,"fightTicket":1256,"busTicket":2067},
+{"tester":1201137,"deviceInfo":"Meizu","netWork":"4G","trainTicket":1234,"fightTicket":1233,"busTicket":2021}]
